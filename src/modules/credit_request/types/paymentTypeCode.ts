@@ -1,0 +1,5 @@
+export enum PaymentTypeCode {
+  MULTICAIXA_EXPRESS = 1,
+  PAGAMENTO_REFERENCIA = 2,
+  TRANSFERENCIA_BANCARIA = 3,
+}
