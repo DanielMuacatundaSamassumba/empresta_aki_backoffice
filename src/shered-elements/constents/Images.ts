@@ -7,7 +7,9 @@ import blogIcon from "../../assets/Agreement New.png"
 import requestCreditIcon from "../../assets/Purchase Order.png"
 import paymentIcon from "../../assets/Dollar Bag.png"
 import arrowMenuIcon from "../../assets/Group.png"
-import logoutIcon from "./../../assets/logout.png"
+import logoutIcon from "../../assets/logout.png";
+
+
 import MoonIcon from "./../../assets/Do not Disturb iOS.png"
 import moneyBakIcon from "./../../assets/dinheiro-de-volta 1.png"
 import phoneIcon from "./../../assets/Smartphone.png"
