@@ -5,7 +5,8 @@
     "useDefineForClassFields": true,
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
     "paths": { 
-        "@/*":[ "./src/*"]
+        "@/*":[ "./src/*"],
+        "@/assets/*": ["./src/assets/*"]
     },
     "module": "ESNext",
     "noEmitOnError": false,
